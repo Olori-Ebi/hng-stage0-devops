@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  place-items: center;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  min-height: 100vh;
+  gap: 1rem;
+}
